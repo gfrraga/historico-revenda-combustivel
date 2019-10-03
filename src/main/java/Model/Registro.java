@@ -19,7 +19,7 @@ public class Registro {
 		this.bandeira = bandeira;
 	}
 
-	//Construtora
+	//Método construtor
 	public Registro(){}
 
 	//Retorna isoladamente o valor dentro da variavel endereço
